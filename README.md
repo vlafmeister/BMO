@@ -21,3 +21,18 @@ So, what can I assistance you with today? Do you necessity a game to play or a l
 - works as an alarm clock
 - there is a reminder
 - can make jokes
+
+# Limitations
+
+
+
+# Install
+
+- rpi1
+- rpi2
+- rpi3
+- rpi4
+
+### Manually
+
+

@@ -22,17 +22,26 @@ So, what can I assistance you with today? Do you necessity a game to play or a l
 - there is a reminder
 - can make jokes
 
-# Limitations
+### Quick Start
 
 
+- 1 Clone this repo:
+```
+git clone https://github.com/
+```
+- 2 unzip the archive
+```
+ unzip BMO
+```
+- 3 
+```
+cd BMO
+```
+- 4 start
+```
+sudo nano start_bmo.py
+```
 
-# Install
 
-- rpi1
-- rpi2
-- rpi3
-- rpi4
-
-### Manually
 
 
